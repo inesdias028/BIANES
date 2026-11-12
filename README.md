@@ -2,7 +2,7 @@
 
 Website institucional da BIANES: criação e melhoria de produtos tecnológicos, em todo e qualquer setor.
 
-Site estático (HTML, CSS e JavaScript), sem dependências nem build.
+Site estático (HTML, CSS e JavaScript), sem dependências nem compilação.
 
 ## Ver localmente
 
