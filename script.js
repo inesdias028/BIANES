@@ -1,5 +1,5 @@
 // Endereço que recebe os pedidos do formulário de contacto.
-const CONTACT_EMAIL = "geral@bianes.pt";
+const CONTACT_EMAIL = "inesmdias29@gmail.com";
 
 document.documentElement.classList.add("js");
 
